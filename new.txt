@@ -1,0 +1,8 @@
+94. ngFor and nglf Recap
+
+105. Building and Using a Dropdown Directive
+
+
+123. Adding the shopping list
+
+209. Passing Ingredients from Recipes to the Schopping List 
