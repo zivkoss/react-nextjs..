@@ -50,5 +50,5 @@ p a:hover,
 p a:active {
   color: #bd3df4;
   border-color: #bd3df4;
-  /* nav-down: auto; */
+  nav-down: auto;
 }
