@@ -1,5 +1,7 @@
 import Link from 'next/link';
 
+import Header from './header';
+
 export default function Home() {
   // console.log('Executing...')
   return (
